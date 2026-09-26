@@ -2,6 +2,8 @@
 
 **Автор: Карина Куслина · [@Miramisha](https://github.com/Miramisha)**
 
+> Методичка создана с использованием искусственного интеллекта (ИИ).
+
 Русскоязычная методичка для самостоятельного изучения full-stack разработки: **39 глав, 64 страницы и 16 страниц со схемами**. Теория связана сквозным проектом — интернет-магазином с заказами.
 
 **[Открыть PDF](docs/fullstack-handbook.pdf) · [Скачать PDF](https://github.com/Miramisha/fullstack-handbook/raw/refs/heads/main/docs/fullstack-handbook.pdf)**
